@@ -39,6 +39,8 @@
       <module name="Coffee_Machine.Topics-Defining_classes-Points.main" target="11" />
       <module name="Coffee_Machine.Topics-Defining_classes-Points_on_the_2D_plane.main" target="11" />
       <module name="Coffee_Machine.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Days_of_week.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Enum_with_two_constants.main" target="11" />
       <module name="Coffee_Machine.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
       <module name="Coffee_Machine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
       <module name="Coffee_Machine.Topics-Enums_in_Java-Theory.main" target="11" />
