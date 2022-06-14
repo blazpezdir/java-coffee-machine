@@ -44,6 +44,11 @@
       <module name="Coffee_Machine.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
       <module name="Coffee_Machine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
       <module name="Coffee_Machine.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Danger_levels.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Planets_of_the_solar_system.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Robot_control.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-System_of_units.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
       <module name="Coffee_Machine.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
       <module name="Coffee_Machine.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
@@ -53,6 +58,7 @@
       <module name="Coffee_Machine.Topics-Instance_methods-Simulating_a_clock.main" target="11" />
       <module name="Coffee_Machine.Topics-Instance_methods-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterating_over_arrays-Does_an_array_contain_N.main" target="11" />
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-Individual_taxes.main" target="11" />
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />

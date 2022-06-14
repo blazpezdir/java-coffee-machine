@@ -52,6 +52,11 @@
             <option value="$PROJECT_DIR$/Topics/Enums in Java/Hidden enumeration" />
             <option value="$PROJECT_DIR$/Topics/Enums in Java/Reasons to use enum" />
             <option value="$PROJECT_DIR$/Topics/Enums in Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Planets of the solar system" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Robot control" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Theory" />
             <option value="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods" />
             <option value="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name" />
             <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function" />
@@ -61,6 +66,7 @@
             <option value="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock" />
             <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Does an array contain N" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Individual taxes" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements" />
